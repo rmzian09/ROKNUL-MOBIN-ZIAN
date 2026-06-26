@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int a = 5;
+    int a = 45;
 
     printf("Before: %d\n", a);
     printf("Using --a: %d\n", --a);
